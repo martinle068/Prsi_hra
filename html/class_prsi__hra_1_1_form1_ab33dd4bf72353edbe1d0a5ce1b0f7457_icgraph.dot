@@ -1,0 +1,11 @@
+digraph "Prsi_hra.Form1.InitializeComponent"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="Prsi_hra.Form1.Initialize\lComponent",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Required method for Designer support - do not modify the contents of this method with the code editor..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="Prsi_hra.Form1.Form1",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$class_prsi__hra_1_1_form1.html#a93625e9e99f518e71702941a671e1dcf",tooltip="Inicializuje novou instanci tøídy Form1."];
+}

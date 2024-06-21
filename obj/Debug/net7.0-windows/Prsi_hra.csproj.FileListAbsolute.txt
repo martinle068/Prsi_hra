@@ -1,0 +1,49 @@
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.exe
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.deps.json
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.runtimeconfig.json
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.dll
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.pdb
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.AssemblyReference.cache
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.Form1.resources
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.GenerateResource.cache
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.AssemblyInfoInputs.cache
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.AssemblyInfo.cs
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.CoreCompileInputs.cache
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.dll
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\refint\Prsi_hra.dll
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.pdb
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.genruntimeconfig.cache
+C:\Users\leduc\OneDrive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\ref\Prsi_hra.dll
+G:\My Drive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.exe
+G:\My Drive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.deps.json
+G:\My Drive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.runtimeconfig.json
+G:\My Drive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.dll
+G:\My Drive\sem2\c sharp\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.pdb
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.Form1.resources
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.GenerateResource.cache
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.AssemblyInfoInputs.cache
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.AssemblyInfo.cs
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.CoreCompileInputs.cache
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.dll
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\refint\Prsi_hra.dll
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.pdb
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.genruntimeconfig.cache
+G:\My Drive\sem2\c sharp\Prsi_hra\obj\Debug\net7.0-windows\ref\Prsi_hra.dll
+C:\Users\leduc\skola\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.exe
+C:\Users\leduc\skola\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.deps.json
+C:\Users\leduc\skola\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.runtimeconfig.json
+C:\Users\leduc\skola\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.dll
+C:\Users\leduc\skola\Prsi_hra\bin\Debug\net7.0-windows\Prsi_hra.pdb
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.Form1.resources
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.GenerateResource.cache
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.AssemblyInfoInputs.cache
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.AssemblyInfo.cs
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.csproj.CoreCompileInputs.cache
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.dll
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\refint\Prsi_hra.dll
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.pdb
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\Prsi_hra.genruntimeconfig.cache
+C:\Users\leduc\skola\Prsi_hra\obj\Debug\net7.0-windows\ref\Prsi_hra.dll
