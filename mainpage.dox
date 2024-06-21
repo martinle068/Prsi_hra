@@ -1,0 +1,34 @@
+/**
+ * @mainpage Dokumentace ke karetní hře Prší
+ * 
+ * @section uvod Úvod
+ * 
+ * Tento projekt je jednoduchá karetní hra, kterou lze hrát proti počítači.
+ * Hra používá standardní balíček karet a má několik speciálních pravidel.
+ * 
+ * @section instalace Instalace
+ * 
+ * 1. Stáhněte nebo naklonujte repozitář.
+ * 2. Otevřete řešení ve Visual Studio.
+ * 3. Sestavte projekt a spusťte aplikaci.
+ * 
+ * @section pouziti Použití
+ * 
+ * - Hráč začíná hru výběrem počtu karet, se kterými se začíná.
+ * - Hráč a počítač se střídají v tazích, dokud jeden z nich nevyhraje.
+ * - Hráč může klikat na své karty, aby je zahrál.
+ * 
+ * @section dokumentace Dokumentace
+ * 
+ * Tato dokumentace obsahuje podrobné informace o všech třídách, metodách a polích v projektu.
+ * 
+ * @section odkazy Odkazy
+ * 
+ * - @ref Form1 "Třída Form1"
+ * - @ref RozdejKarty "Metoda RozdejKarty"
+ * - @ref HratelnaKarta "Metoda HratelnaKarta"
+ * 
+ * @section autori Autoři
+ * 
+ * Tento projekt vytvořil [Le Duc Hung].
+ */
